@@ -1,6 +1,7 @@
 # CLTVP(Customer Life Time Value Prediction)-FLO
 
-![customer-lifetime-value-calculation](https://github.com/ymetinyilmazoglu/cltv_prediction_flo/assets/136450475/eb8bf804-b920-4d9e-9fda-fd27a8204f87)
+![customer-lifetime-value-calculation](https://github.com/ymetinyilmazoglu/cltv_prediction_flo/assets/136450475/d94874ad-8808-4615-8440-d24ab5191332)
+
 
 
 ## What is CLTV ?
